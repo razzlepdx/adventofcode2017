@@ -1,0 +1,1 @@
+A hobby repo - tracking my progress through the [Advent of Code 2017 Challenge](http://adventofcode.com/)
